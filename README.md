@@ -6,7 +6,7 @@ Thirteen thoughts. Try to think of none of them.
 
 The screen is the inside of your closed eyes. Keep it dark. Breathe with the ring, and when a thought drifts in, work out what kind it is and answer it before it grows.
 
-**[Play it in your browser](index.html)** (enable GitHub Pages on this repo and it runs at `https://<your-username>.github.io/blank/`)
+**[Play it in your browser](https://mohib-ur-rehman-automation.github.io/blank/)** (enable GitHub Pages on this repo and it runs at `https://<your-username>.github.io/blank/`)
 
 ![Gameplay](screenshot.png)
 
@@ -33,7 +33,7 @@ The game opens with a short practice round that teaches each piece. In brief:
 
 One HTML file. No libraries, no images, no build step. Everything is drawn on a canvas and all sound is synthesized in the browser.
 
-Concept and direction by YOUR NAME. Code written by Claude Fable 5.2 (Anthropic).
+Concept and direction by Mohib Ur Rehman. Code written by Claude (Anthropic).
 
 ## License
 
